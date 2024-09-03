@@ -1,1 +1,1 @@
-The Stats507 is a course in Umich which surveys the software tools that are currently popular among data scientists in academia and industry, mainly focus on Python. I will post this course's homework here.
+The Stats507 is a course in Umich which surveys the software tools that are currently popular among data scientists in academia and industry, mainly focuses on Python. I will post this course's homework here.
